@@ -1,0 +1,997 @@
+{
+  "metadata": {
+    "siteTitle": "Alexander Morris \u2014 Architecture & Urban Planning",
+    "author": "Alexander Morris",
+    "institution": "UCLA Department of Architecture and Urban Design",
+    "degree": "Master of Architecture (M.Arch)",
+    "location": "Southern California & Greater Tuscany",
+    "version": "2.0-spatial"
+  },
+  "disciplines": [
+    {
+      "id": "all",
+      "label": "All Works (18)"
+    },
+    {
+      "id": "architecture",
+      "label": "Architecture & Tectonics (5)"
+    },
+    {
+      "id": "urban-design",
+      "label": "Urban Design & Infrastructure (4)"
+    },
+    {
+      "id": "uhi",
+      "label": "Urban Humanities & Sonic (3)"
+    },
+    {
+      "id": "fieldwork",
+      "label": "Field Studies & Site Visits (6)"
+    }
+  ],
+  "projects": [
+    {
+      "id": "crest-arts",
+      "region": "socal",
+      "discipline": "architecture",
+      "program": "UCLA Graduate Studio",
+      "scale": "Building & Rainscreen \u2022 1:100",
+      "title": "Crest Arts Collective",
+      "typology": "Adaptive Reuse & Community Arts",
+      "year": "2025",
+      "locationName": "1334 Lincoln Blvd, Santa Monica, CA",
+      "coords": {
+        "x": -32,
+        "z": 2
+      },
+      "gridPos": {
+        "x": -12,
+        "z": -8
+      },
+      "summary": "Adaptive reuse co-opting an awkward commercial half-building along Lincoln Boulevard into an iridescent community arts sanctuary with a central courtyard amphitheater and progressive vertical circulation.",
+      "enscapeUrl": "https://enscape3d.com",
+      "media": {
+        "renders": [
+          {
+            "src": "assets/projects/crest-arts/renders/renders-1.jpg",
+            "caption": "Lincoln Blvd Street Frontage Hero View",
+            "sub": "Iridescent Metal Rainscreen"
+          },
+          {
+            "src": "assets/projects/crest-arts/renders/renders-2.jpg",
+            "caption": "Courtyard Amphitheater & Performance Rake",
+            "sub": "Atrium Perspective"
+          },
+          {
+            "src": "assets/projects/crest-arts/renders/renders-3.jpg",
+            "caption": "Double-Height Glazed Circulation Gallery",
+            "sub": "Natural Light Study"
+          }
+        ],
+        "drawings": [
+          {
+            "src": "assets/projects/crest-arts/drawings/drawings-1.jpg",
+            "caption": "Exploded Structural & Envelope Axonometric",
+            "sub": "Tectonic Assembly"
+          },
+          {
+            "src": "assets/projects/crest-arts/drawings/drawings-2.jpg",
+            "caption": "Second & Third Floor Combined Plans",
+            "sub": "Scale 1/8 in = 1 ft"
+          },
+          {
+            "src": "assets/projects/crest-arts/drawings/drawings-3.jpg",
+            "caption": "Transverse Section through Performance Rake",
+            "sub": "Circulation & Acoustics"
+          }
+        ],
+        "models": [
+          {
+            "src": "assets/projects/crest-arts/models/models-1.jpg",
+            "caption": "Basswood & Plaster Model with Neon Circulation",
+            "sub": "1:50 Physical Study"
+          },
+          {
+            "src": "assets/projects/crest-arts/models/models-2.jpg",
+            "caption": "Volumetric Paint & Massing Mockup",
+            "sub": "Envelope Geometry"
+          }
+        ]
+      }
+    },
+    {
+      "id": "confluence-commons",
+      "region": "socal",
+      "discipline": "urban-design",
+      "program": "UCLA Graduate Studio",
+      "scale": "Infrastructural Superstructure \u2022 1:500",
+      "title": "Confluence Commons",
+      "typology": "Infrastructural Urbanism & Superstructure",
+      "year": "2026",
+      "locationName": "I-10 & I-405 Interchange, West Los Angeles, CA",
+      "coords": {
+        "x": -22,
+        "z": -2
+      },
+      "gridPos": {
+        "x": -4,
+        "z": -8
+      },
+      "summary": "A massive multi-level civic superstructure spanning directly over the I-10 and I-405 freeway interchange, turning Southern California's most intense vehicular collision point into an interconnected public terrace, transit hub, and environmental buffer.",
+      "enscapeUrl": "https://enscape3d.com",
+      "media": {
+        "renders": [
+          {
+            "src": "assets/projects/Confluence-Commons/Overhead-render.png",
+            "caption": "Overhead Master Aerial View Spanning Highway Flyovers",
+            "sub": "Interchange Superstructure Scale"
+          },
+          {
+            "src": "assets/projects/Confluence-Commons/Exterior-Render.png",
+            "caption": "Exterior Perspective & Highway Clearance Profile",
+            "sub": "Tectonic Deck & Acoustic Buffers"
+          },
+          {
+            "src": "assets/projects/Confluence-Commons/Interior-Render.png",
+            "caption": "Interior Multimodal Concourse & Public Deck",
+            "sub": "Atrium Natural Daylighting"
+          }
+        ],
+        "drawings": [
+          {
+            "src": "assets/projects/Confluence-Commons/drawings-1.jpg",
+            "caption": "Interchange Mega-Truss Structural Section",
+            "sub": "Long-span Engineering"
+          },
+          {
+            "src": "assets/projects/Confluence-Commons/drawings-2.jpg",
+            "caption": "Multimodal Transit Deck Master Plan",
+            "sub": "Pedestrian & Rail Concourse"
+          }
+        ],
+        "models": [
+          {
+            "src": "assets/projects/Confluence-Commons/Model-Photo-1.png",
+            "caption": "Physical Presentation Model \u2014 Angled Aerial Topography",
+            "sub": "1:500 Highway Model Study"
+          },
+          {
+            "src": "assets/projects/Confluence-Commons/Model-Photo-2.png",
+            "caption": "Physical Presentation Model \u2014 Highway Flyover Underpass",
+            "sub": "Tectonic Flange Clearance"
+          },
+          {
+            "src": "assets/projects/Confluence-Commons/Model-Photo-3.png",
+            "caption": "Physical Presentation Model \u2014 Superstructure Deck & Context",
+            "sub": "Foam & Cast Model Study"
+          }
+        ]
+      }
+    },
+    {
+      "id": "pelotown",
+      "region": "socal",
+      "discipline": "urban-design",
+      "program": "UCLA Graduate Studio",
+      "scale": "Modular Housing & Transit \u2022 1:200",
+      "title": "Pelotown (Marina Marketplace Retrofit)",
+      "typology": "High-Density Residential & Urban Infrastructure",
+      "year": "2026",
+      "locationName": "Maxella Ave & Glencoe Ave, Marina Del Rey, CA",
+      "coords": {
+        "x": -28,
+        "z": 10
+      },
+      "gridPos": {
+        "x": 4,
+        "z": -8
+      },
+      "summary": "Transforming the car-centric Marina Marketplace strip mall into high-density aggregated housing. Drawing inspiration from Moshe Safdie's Habitat 67 and Paris's Star Apartments, modular ADU-derived units cluster into interconnected stepped towers woven with continuous bicycle ramps.",
+      "enscapeUrl": "https://enscape3d.com",
+      "media": {
+        "renders": [
+          {
+            "src": "assets/projects/pelotown/renders/renders-1.jpg",
+            "caption": "Elevated Cycleway & Interconnected Terraces",
+            "sub": "Stepped Massing View"
+          },
+          {
+            "src": "assets/projects/pelotown/renders/renders-2.jpg",
+            "caption": "Courtyard Street-Level Retail Concourse",
+            "sub": "Pedestrian Spine"
+          }
+        ],
+        "drawings": [
+          {
+            "src": "assets/projects/pelotown/drawings/drawings-1.jpg",
+            "caption": "Aggregated ADU Module Joinery Matrix",
+            "sub": "Modular Tectonics"
+          },
+          {
+            "src": "assets/projects/pelotown/drawings/drawings-2.jpg",
+            "caption": "Stepped Section through Continuous Cycle Ramp",
+            "sub": "Circulation Section"
+          }
+        ],
+        "models": [
+          {
+            "src": "assets/projects/pelotown/models/models-1.jpg",
+            "caption": "Modular 3D Printed Stepped Tower Study",
+            "sub": "Bambu P1S Prototype"
+          }
+        ]
+      }
+    },
+    {
+      "id": "waterloop",
+      "region": "socal",
+      "discipline": "architecture",
+      "program": "UCLA Graduate Studio",
+      "scale": "Bungalow Densification \u2022 1:100",
+      "title": "Waterloop",
+      "typology": "Urban Housing Densification & Aquaphilia",
+      "year": "2025",
+      "locationName": "Bungalow Court Fabric, West Los Angeles, CA",
+      "coords": {
+        "x": -20,
+        "z": 6
+      },
+      "gridPos": {
+        "x": 12,
+        "z": -8
+      },
+      "summary": "A meditation on the densification of urban housing through recreational water commons. Reinterpreting the Los Angeles bungalow court into stepped aquatic decks, alternating non-parallel sightlines, and public perimeter swimming pools.",
+      "enscapeUrl": "https://enscape3d.com",
+      "media": {
+        "renders": [
+          {
+            "src": "assets/projects/waterloop/renders/renders-1.jpg",
+            "caption": "Eye-Level Poolside Horizon & Reflection View",
+            "sub": "Hero Render"
+          },
+          {
+            "src": "assets/projects/waterloop/renders/renders-2.jpg",
+            "caption": "Aerial Axonometric Massing & Street Edge",
+            "sub": "Urban Density Render"
+          },
+          {
+            "src": "assets/projects/waterloop/renders/renders-3.jpg",
+            "caption": "South Elevation Line Rendering",
+            "sub": "Facade Modulation"
+          }
+        ],
+        "drawings": [
+          {
+            "src": "assets/projects/waterloop/drawings/drawings-1.jpg",
+            "caption": "Ground Floor Bungalow Court Layout Plan",
+            "sub": "Scale 1/16 in = 1 ft"
+          },
+          {
+            "src": "assets/projects/waterloop/drawings/drawings-2.jpg",
+            "caption": "Longitudinal Tectonic Section through Pools",
+            "sub": "Hydraulic System"
+          },
+          {
+            "src": "assets/projects/waterloop/drawings/drawings-3.jpg",
+            "caption": "Axonometric Density & Open Space Metric Diagram",
+            "sub": "FAR & Coverage Analysis"
+          }
+        ],
+        "models": [
+          {
+            "src": "assets/projects/waterloop/models/models-1.jpg",
+            "caption": "Layered Contour Base with Cast Blue Resin Pools",
+            "sub": "Physical Laser Cut Model"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hiding-in-plain-sight",
+      "region": "socal",
+      "discipline": "urban-design",
+      "program": "UCLA Graduate Studio",
+      "scale": "Deep Urbanism & Bioacoustics \u2022 1:250",
+      "title": "Hiding In Plain Sight",
+      "typology": "Deep Urbanism & Bioacoustic Research Center",
+      "year": "2025",
+      "locationName": "Old Zoo Site, Griffith Park, Los Angeles, CA",
+      "coords": {
+        "x": 4,
+        "z": -18
+      },
+      "gridPos": {
+        "x": -12,
+        "z": 8
+      },
+      "summary": "A 'deep urbanism' facility buried entirely beneath the foothills of Griffith Park to ensure continuous wildlife migration corridors. Form and layout are organized based on 2021 bioacoustic spectrogram analyses, zoning programs by auditory frequency isolation.",
+      "enscapeUrl": "https://enscape3d.com",
+      "media": {
+        "renders": [
+          {
+            "src": "assets/projects/hiding-in-plain-sight/renders/renders-1.jpg",
+            "caption": "Central Oculus Courtyard Framing Mountain Crest",
+            "sub": "Interior Perspective"
+          },
+          {
+            "src": "assets/projects/hiding-in-plain-sight/renders/renders-2.jpg",
+            "caption": "Subterranean Research Pilotis & Public Ramps",
+            "sub": "Cutaway Render"
+          }
+        ],
+        "drawings": [
+          {
+            "src": "assets/projects/hiding-in-plain-sight/drawings/drawings-1.jpg",
+            "caption": "Hillside Geological Transverse Section",
+            "sub": "Topographical Embedment"
+          },
+          {
+            "src": "assets/projects/hiding-in-plain-sight/drawings/drawings-2.jpg",
+            "caption": "Subterranean Cavern Master Plan (Public Commons in Red)",
+            "sub": "Circulation Matrix"
+          },
+          {
+            "src": "assets/projects/hiding-in-plain-sight/drawings/drawings-3.jpg",
+            "caption": "Bioacoustic Spectrogram Isolation Charts (1-5)",
+            "sub": "Acoustic Ecology"
+          }
+        ],
+        "models": [
+          {
+            "src": "assets/projects/hiding-in-plain-sight/models/models-1.jpg",
+            "caption": "Topographic Cast Relief & Subterranean Void",
+            "sub": "CNC Foam Study"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ladwp-headworks",
+      "region": "socal",
+      "discipline": "urban-design",
+      "program": "UCLA Graduate Studio",
+      "scale": "Riparian Infrastructure & Berms \u2022 1:500",
+      "title": "LADWP Headworks Ecological Proposal",
+      "typology": "Ecological Utility & Riparian Wildlife Berm",
+      "year": "2025",
+      "locationName": "LA River at North Griffith Park, Los Angeles, CA",
+      "coords": {
+        "x": -2,
+        "z": -24
+      },
+      "gridPos": {
+        "x": -4,
+        "z": 8
+      },
+      "summary": "Infrastructural intervention along the concrete Headworks Reservoirs. Partially buried filtration and educational facilities slope upward into planted wildlife berms, canyonizing the Ventura Freeway to shield riparian birds and river habitats from traffic noise.",
+      "enscapeUrl": "https://enscape3d.com",
+      "media": {
+        "drawings": [
+          {
+            "src": "assets/projects/ladwp-headworks/drawings/drawings-1.jpg",
+            "caption": "Transverse Site Section: Riverbed to Reservoir Berm",
+            "sub": "Ecological Transition"
+          },
+          {
+            "src": "assets/projects/ladwp-headworks/drawings/drawings-2.jpg",
+            "caption": "Finger Massings & Riparian Landscape Master Plan",
+            "sub": "GIS & Vector Map"
+          }
+        ],
+        "renders": [
+          {
+            "src": "assets/projects/ladwp-headworks/renders/renders-1.jpg",
+            "caption": "Planted Berm Approach & Education Concourse",
+            "sub": "Contextual View"
+          }
+        ],
+        "models": [
+          {
+            "src": "assets/projects/ladwp-headworks/models/models-1.jpg",
+            "caption": "Landscape Topography & Reservoir Flume Study",
+            "sub": "Physical Relief"
+          }
+        ]
+      }
+    },
+    {
+      "id": "thoughthouse",
+      "region": "socal",
+      "discipline": "architecture",
+      "program": "UCLA Graduate Studio",
+      "scale": "Sacred Architecture \u2022 1:100",
+      "title": "THOUGHTHOUSE",
+      "typology": "House of Worship & Contemplative Childcare",
+      "year": "2024",
+      "locationName": "Full Square Urban Block, West Los Angeles, CA",
+      "coords": {
+        "x": -14,
+        "z": 2
+      },
+      "gridPos": {
+        "x": 4,
+        "z": 8
+      },
+      "summary": "A hybrid sanctuary in the round sited on an isolated city block surrounded by streets on all four sides. Derived through analytic geometry from Stuart Davis's 'Egg Beater No. 2', the project balances intimate seclusion and shared worship through dramatic conical apertures and acoustic surfaces.",
+      "enscapeUrl": "https://enscape3d.com",
+      "media": {
+        "renders": [
+          {
+            "src": "assets/projects/thoughthouse/renders/renders-1.jpg",
+            "caption": "Monochromatic Triangular Lightwell Perspective",
+            "sub": "Atmospheric Render"
+          },
+          {
+            "src": "assets/projects/thoughthouse/renders/renders-2.jpg",
+            "caption": "Circular Oculus & Processional Axis View",
+            "sub": "Sacred Lighting Study"
+          }
+        ],
+        "drawings": [
+          {
+            "src": "assets/projects/thoughthouse/drawings/drawings-1.jpg",
+            "caption": "Ground Floor Geometric Sanctuary Plan",
+            "sub": "Scale 1/8 in = 1 ft"
+          },
+          {
+            "src": "assets/projects/thoughthouse/drawings/drawings-2.jpg",
+            "caption": "Stuart Davis Analytic Deconstruction Diagrams",
+            "sub": "Formal Generation"
+          }
+        ],
+        "models": [
+          {
+            "src": "assets/projects/thoughthouse/models/models-1.jpg",
+            "caption": "Interior Lighting & Aperture Plaster Study",
+            "sub": "Physical Massing"
+          }
+        ]
+      }
+    },
+    {
+      "id": "roland-namm",
+      "region": "socal",
+      "discipline": "architecture",
+      "program": "Independent Spatial Design",
+      "scale": "Acoustic Pavilion \u2022 1:25",
+      "title": "Roland Exhibition Pavilion (Polyphonic Tectonics)",
+      "typology": "Ephemeral Spatial Architecture & Acoustic Envelope",
+      "year": "2026",
+      "locationName": "Anaheim Convention Center, Hall A-B, Anaheim, CA",
+      "coords": {
+        "x": 30,
+        "z": 18
+      },
+      "gridPos": {
+        "x": 12,
+        "z": 8
+      },
+      "summary": "An inward-imploding acoustic sanctuary sited directly on the noisy trade show floor of the Anaheim Convention Center for NAMM. Rejecting standard pipe-and-drape convention carpet culture, the pavilion uses extruded 6061-T6 aluminum truss frames and basalt rockwool baffles to achieve -34 dB isolation, offering visitors an uncanny acoustic vacuum to test classic analog synthesizers.",
+      "enscapeUrl": "https://enscape3d.com",
+      "media": {
+        "renders": [
+          {
+            "src": "assets/projects/roland-namm/renders/renders-1.jpg",
+            "caption": "Faceted Rockwool Entrance Portal & Acoustic Baffles",
+            "sub": "Threshold Perspective"
+          },
+          {
+            "src": "assets/projects/roland-namm/renders/renders-2.jpg",
+            "caption": "TR-808 Sub-Bass Resonant Chamber Interior",
+            "sub": "Atmospheric Lighting View"
+          },
+          {
+            "src": "assets/projects/roland-namm/renders/renders-3.jpg",
+            "caption": "Jupiter-8 Polyphonic Monolith & Aluminum Consoles",
+            "sub": "Tactile Sound Station"
+          }
+        ],
+        "drawings": [
+          {
+            "src": "assets/projects/roland-namm/drawings/drawings-1.jpg",
+            "caption": "Ground Floor Acoustic Vault & Circulation Plan",
+            "sub": "Scale 1:50"
+          },
+          {
+            "src": "assets/projects/roland-namm/drawings/drawings-2.jpg",
+            "caption": "Transverse Baffle Section & Variable Louvers",
+            "sub": "Acoustic Attenuation Detail"
+          },
+          {
+            "src": "assets/projects/roland-namm/drawings/drawings-3.jpg",
+            "caption": "Exploded 72-Hour Rapid Strike Tectonic Axonometric",
+            "sub": "Modular Assembly"
+          }
+        ],
+        "models": [
+          {
+            "src": "assets/projects/roland-namm/models/models-1.jpg",
+            "caption": "CNC Milled Baffle Mockup & Neoprene Isolated Floor",
+            "sub": "1:25 Acoustic Prototype"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cut-to-connect",
+      "region": "italy",
+      "discipline": "architecture",
+      "program": "UCLA Huljich Advanced Topic Studio 401.1",
+      "collaborators": "Jaewon Lee & Alexander Morris",
+      "scale": "Historic Adaptive Reuse & Winery \u2022 1:100",
+      "title": "Cut to Connect (Karma Borgo di Colleoli)",
+      "typology": "Historic Borgo Adaptive Reuse & Landscape Intervention",
+      "year": "Fall 2025",
+      "locationName": "Karma Borgo di Colleoli, Palaia, Tuscany, Italy",
+      "coords": {
+        "x": -8,
+        "z": 2
+      },
+      "gridPos": {
+        "x": -8,
+        "z": 2
+      },
+      "summary": "Our site strategy proposal for Karma Borgo di Colleoli is formulated to create spaces of connection through selective surgical incisions into the historic fabric. The winery proposal at the south end bridges across the provincial road like a vine, co-opting the ideal of the Corridoio Vasariano and Ponte Vecchio in nearby Florence into a living gallery and panoramic viewing concourse. The pinwheel morphology connects the southern pressing/aging root with the northern tasting pavilions and hillside vineyard suites, threading terraced landscape amphitheaters into the topography.",
+      "enscapeUrl": "https://enscape3d.com",
+      "media": {
+        "renders": [
+          {
+            "src": "assets/projects/Cut-To-Connect/MArch-F25-401.2-ATS-Huljich-Lee-Jaewon-Morris-Alexander-RN-01.jpg",
+            "caption": "Hero Aerial: Borgo di Colleoli & Inhabited Winery Bridge",
+            "sub": "Huljich Studio Render RN-01"
+          },
+          {
+            "src": "assets/projects/Cut-To-Connect/MArch-F25-401.2-ATS-Huljich-Lee-Jaewon-Morris-Alexander-RN-02.jpg",
+            "caption": "Winery Road Bridge: Vasariano Corridor Perspective",
+            "sub": "Huljich Studio Render RN-02"
+          },
+          {
+            "src": "assets/projects/Cut-To-Connect/MArch-F25-401.2-ATS-Huljich-Lee-Jaewon-Morris-Alexander-RN-03.jpg",
+            "caption": "Terraced Olive Grove & Amphitheater at Dusk",
+            "sub": "Huljich Studio Render RN-03"
+          },
+          {
+            "src": "assets/projects/Cut-To-Connect/MArch-F25-401.2-ATS-Huljich-Lee-Jaewon-Morris-Alexander-RN-04.jpg",
+            "caption": "Stone Masonry Incision & Corten Retaining Promenade",
+            "sub": "Huljich Studio Render RN-04"
+          },
+          {
+            "src": "assets/projects/Cut-To-Connect/MArch-F25-401.2-ATS-Huljich-Lee-Jaewon-Morris-Alexander-RN-05.jpg",
+            "caption": "Subterranean Barricaia Fermentation Cellar",
+            "sub": "Huljich Studio Render RN-05"
+          },
+          {
+            "src": "assets/projects/Cut-To-Connect/MArch-F25-401.2-ATS-Huljich-Lee-Jaewon-Morris-Alexander-RN-06.jpg",
+            "caption": "Hillside Vineyard Guest Suites Looking North",
+            "sub": "Huljich Studio Render RN-06"
+          },
+          {
+            "src": "assets/projects/Cut-To-Connect/MArch-F25-401.2-ATS-Huljich-Lee-Jaewon-Morris-Alexander-RN-07.jpg",
+            "caption": "Adaptive Reuse Stone Barn Gallery & Lightwell",
+            "sub": "Huljich Studio Render RN-07"
+          },
+          {
+            "src": "assets/projects/Cut-To-Connect/MArch-F25-401.2-ATS-Huljich-Lee-Jaewon-Morris-Alexander-RN-08.jpg",
+            "caption": "Tasting Room & Panoramic Valdera Overlook",
+            "sub": "Huljich Studio Render RN-08"
+          }
+        ],
+        "drawings": [
+          {
+            "src": "assets/projects/Cut-To-Connect/MArch-F25-401.2-ATS-Huljich-Lee-Jaewon-Morris-Alexander-LN-01.jpg",
+            "caption": "Master Plan & Topographical Inhabitation Matrix",
+            "sub": "Department Line Drawing LN-01"
+          },
+          {
+            "src": "assets/projects/Cut-To-Connect/MArch-F25-401.2-ATS-Huljich-Lee-Jaewon-Morris-Alexander-LN-02.jpg",
+            "caption": "Winery Bridge Transverse Roadway Section",
+            "sub": "Department Line Drawing LN-02"
+          },
+          {
+            "src": "assets/projects/Cut-To-Connect/MArch-F25-401.2-ATS-Huljich-Lee-Jaewon-Morris-Alexander-LN-03.jpg",
+            "caption": "Longitudinal Tectonic Section through Hillside Cuts",
+            "sub": "Department Line Drawing LN-03"
+          },
+          {
+            "src": "assets/projects/Cut-To-Connect/MArch-F25-401.2-ATS-Huljich-Lee-Jaewon-Morris-Alexander-LN-04.jpg",
+            "caption": "Ground Level Floor Plans & Circulation Cuts",
+            "sub": "Department Line Drawing LN-04"
+          },
+          {
+            "src": "assets/projects/Cut-To-Connect/MArch-F25-401.2-ATS-Huljich-Lee-Jaewon-Morris-Alexander-LN-05.jpg",
+            "caption": "Upper Gallery Level & Bridge Promenade Plan",
+            "sub": "Department Line Drawing LN-05"
+          },
+          {
+            "src": "assets/projects/Cut-To-Connect/MArch-F25-401.2-ATS-Huljich-Lee-Jaewon-Morris-Alexander-LN-06.jpg",
+            "caption": "Structural Retaining Wall & Corten Joint Details",
+            "sub": "Department Line Drawing LN-06"
+          }
+        ],
+        "models": [
+          {
+            "src": "assets/projects/Cut-To-Connect/MArch-F25-401.2-ATS-Huljich-Lee-Jaewon-Morris-Alexander-DG-02.png",
+            "caption": "Axonometric Disassembly & Connective Tectonic Diagram",
+            "sub": "Department Diagram DG-02"
+          },
+          {
+            "src": "assets/projects/Cut-To-Connect/Cut to Connect - Karma Borgo di Colleoli (JLAM).pdf",
+            "caption": "Full Project Booklet & Studio Statement (PDF)",
+            "sub": "UCLA MArch Publication"
+          }
+        ]
+      }
+    }
+  ],
+  "uhi_research_sites": [
+    {
+      "id": "uhi-altadena",
+      "title": "Altadena Regrowth: Bioremediation, Mycelium & Seeds",
+      "subtitle": "Altadena Wildland-Urban Interface \u2022 Spring 2026",
+      "coords": {
+        "x": 12,
+        "z": -24
+      },
+      "year": "Spring 2026",
+      "typology": "Interactive Sonic Thick Map, Bioacoustic Soundwalk & Mycoremediation",
+      "category": "Urban Humanities Initiative (UHI)",
+      "summary": "An interactive sonic thick map and community poetic exercise conducted along the Altadena wildland-urban interface at the foot of the San Gabriel Mountains. Partnering with local environmental justice groups, the project investigates post-wildfire ecological rebirth, heavy metal soil contamination, native chaparral fire-follower seed germination, and mycoremediation via Pleurotus ostreatus (oyster mushroom) fungal networks.",
+      "notes": [
+        "Mycoremediation Plots: Testing oyster mushroom mycelial mats along stormwater runoff swales to break down petroleum hydrocarbons.",
+        "Chaparral Seed Banks: Spatial mapping of fire-adapted native seed regeneration (Ceanothus, Arctostaphylos) across burned slopes.",
+        "Sonic Thick Map Soundwalk: Field recordings capturing subterranean soil moisture sensors, wind through scorched sage, and community verse readings."
+      ],
+      "media": [
+        {
+          "src": "assets/uhi/altadena-mycelium/soundwalk-map.jpg",
+          "caption": "Altadena Wildland-Urban Soundwalk Acoustic Transect",
+          "sub": "Sonic Cartography"
+        },
+        {
+          "src": "assets/uhi/altadena-mycelium/mycelium-plot.jpg",
+          "caption": "Mycelial Network Inoculation & Soil Toxicity Map",
+          "sub": "Bioremediation Plot"
+        },
+        {
+          "src": "assets/uhi/altadena-mycelium/seed-archive.jpg",
+          "caption": "Post-Fire Seed Rebirth & Community Poetry Archive",
+          "sub": "Urban Humanities"
+        }
+      ]
+    },
+    {
+      "id": "uhi-sgv",
+      "title": "Sonic Thick Maps of Valleys: Hawaii Supermarket",
+      "subtitle": "Valley Blvd & Del Mar Ave, San Gabriel \u2022 Fall 2025",
+      "coords": {
+        "x": 20,
+        "z": -8
+      },
+      "year": "Fall 2025",
+      "typology": "Ethnoburb Acoustic Cartography & Immigrant Foodways",
+      "category": "Urban Humanities Initiative (UHI)",
+      "summary": "Multi-sensory ethnography centered on Hawaii Supermarket at the intersection of Valley Boulevard and Del Mar Avenue in San Gabriel. Using binaural field recording and decibel spectrogram mapping, this research reveals the rich acoustic ecology of the San Gabriel Valley Asian diaspora commercial corridor: cart wheels rattling over weathered asphalt, seafood aerator hums, bilingual price calls, and the contrasting sonic buffer between six-lane vehicular arterials and sheltered dining courtyards.",
+      "notes": [
+        "Binaural Market Aisle Recordings: Dynamic audio capture of produce misting nozzles, cleaver rhythms, and polyglot exchanges.",
+        "Valley Blvd Arterial Buffer: Decibel attenuation analysis demonstrating how courtyard architecture buffers 78 dB traffic roar down to 54 dB conversational calm.",
+        "Sensory Thick Mapping: Synthesizing aromas, acoustic envelopes, and diaspora memory into layered spatial drawings."
+      ],
+      "media": [
+        {
+          "src": "assets/uhi/sgv-hawaii-supermarket/floorplan-decibels.jpg",
+          "caption": "Hawaii Supermarket Floorplan Decibel Spectrogram",
+          "sub": "Sonic Thick Map"
+        },
+        {
+          "src": "assets/uhi/sgv-hawaii-supermarket/arterial-transect.jpg",
+          "caption": "Valley Boulevard Multi-Lane Acoustic Transect",
+          "sub": "Ethnoburb Ecology"
+        },
+        {
+          "src": "assets/uhi/sgv-hawaii-supermarket/commercial-signage.jpg",
+          "caption": "Commercial Signage Typography & Soundwalk Map",
+          "sub": "Urban Humanities"
+        }
+      ]
+    },
+    {
+      "id": "uhi-hispanic-culinary",
+      "title": "Savoring the City: Hispanic & Latino Culinary Geographies",
+      "subtitle": "In Partnership with Los Angeles Public Library \u2022 Summer 2025",
+      "coords": {
+        "x": 14,
+        "z": 2
+      },
+      "year": "Summer 2025",
+      "typology": "Archival Cartography, Oral Histories & Culinary Preservation",
+      "category": "Urban Humanities Initiative (UHI)",
+      "summary": "A spatial research and public archive initiative conducted in direct collaboration with the Los Angeles Public Library Special Collections. Investigating the cultural geographies of Hispanic and Latino restaurants, panaderias, and street vending corridors across East Los Angeles, Boyle Heights, and Pico-Union, the project georeferences historical menus, maps culinary migration paths, and records oral histories of intergenerational food establishments.",
+      "notes": [
+        "LAPL Culinary Archive Digitization: Geocoding historic menus from 1940\u20132020 to map the evolution of regional Mexican and Central American foodways.",
+        "Oral History Cartography: Multi-generational video and audio interviews with legacy restaurant owners facing gentrification pressures.",
+        "Zoning & Street Vendor Networks: Spatial policy analysis of sidewalk vending zones, commissary kitchen access, and community nourishment."
+      ],
+      "media": [
+        {
+          "src": "assets/uhi/hispanic-culinary-lapl/menu-dispersion.jpg",
+          "caption": "Georeferenced Historical Menu Dispersion Across LA",
+          "sub": "LAPL Special Collections"
+        },
+        {
+          "src": "assets/uhi/hispanic-culinary-lapl/panaderia-matrix.jpg",
+          "caption": "Boyle Heights & East LA Legacy Foodways Matrix",
+          "sub": "Culinary Cartography"
+        },
+        {
+          "src": "assets/uhi/hispanic-culinary-lapl/vending-boundaries.jpg",
+          "caption": "Street Vending Regulatory Boundaries & Food Justice",
+          "sub": "Urban Humanities"
+        }
+      ]
+    }
+  ],
+  "field_studies_italy": [
+    {
+      "id": "florence",
+      "title": "Florence (Firenze) \u2014 Consolidated Architecture Dossier",
+      "subtitle": "Piazza del Duomo, Santa Maria Novella, San Lorenzo",
+      "coords": {
+        "x": 26,
+        "z": -22
+      },
+      "architect": "Brunelleschi, Alberti, Michelangelo, Master Masons",
+      "year": "14th\u201316th Century / Visit Oct 30\u201331, 2024",
+      "typology": "Renaissance Tectonics, Civic Piazzas & Urban Fabric",
+      "category": "Metropolitan Field Study",
+      "summary": "Comprehensive urban and architectural field survey of Florence across the final two days of the UCLA travel studio. Rather than splintering into isolated dots, this consolidated metropolitan dossier documents the key Renaissance monuments and street networks visited: Santa Maria del Fiore, Santa Maria Novella, the Basilica di San Lorenzo, and the surrounding historic fabric.",
+      "notes": [
+        "Santa Maria del Fiore: Brunelleschi's double-shell masonry dome constructed without centering scaffolding using herringbone brickwork (spina di pesce) and stone chain tension rings.",
+        "Santa Maria Novella: Leon Battista Alberti's iconic 1470 marble Renaissance facade\u2014a profound study in harmonic Euclidean proportions, classical volutes, and polychrome marble revetment.",
+        "Basilica di San Lorenzo: Brunelleschi's early Renaissance nave proportions, Michelangelo's Laurentian Library vestibule with theatrical cascade stairs, and the Medici Chapels.",
+        "Urban Fabric & Sustenance: Walking survey through historic street canyons, terminating at Tomaso's / Vini e Vecchi Sapori for authentic Florentine studio lunches."
+      ],
+      "subchapters": [
+        {
+          "id": "all",
+          "label": "All Works (Selected Archive)"
+        },
+        {
+          "id": "duomo",
+          "label": "Duomo & Brunelleschi's Dome"
+        },
+        {
+          "id": "smn",
+          "label": "Santa Maria Novella (Alberti)"
+        },
+        {
+          "id": "san-lorenzo",
+          "label": "San Lorenzo & Laurentian Library"
+        },
+        {
+          "id": "urban",
+          "label": "Urban Fabric & Piazzas"
+        }
+      ],
+      "photos": [
+        {
+          "src": "assets/trips/italy/florence/duomo/duomo-1.jpg",
+          "caption": "Brunelleschi's Double-Shell Dome & Giotto's Campanile",
+          "sub": "Duomo Complex",
+          "chapter": "duomo"
+        },
+        {
+          "src": "assets/trips/italy/florence/duomo/duomo-2.jpg",
+          "caption": "Spina di Pesce Herringbone Brickwork Tectonic Detail",
+          "sub": "Dome Construction",
+          "chapter": "duomo"
+        },
+        {
+          "src": "assets/trips/italy/florence/smn/smn-1.jpg",
+          "caption": "Alberti Renaissance Polychrome Facade & Volutes",
+          "sub": "Santa Maria Novella",
+          "chapter": "smn"
+        },
+        {
+          "src": "assets/trips/italy/florence/smn/smn-2.jpg",
+          "caption": "Green & White Marble Geometrical Inlay Revetment",
+          "sub": "Tectonic Surface",
+          "chapter": "smn"
+        },
+        {
+          "src": "assets/trips/italy/florence/san-lorenzo/san-lorenzo-1.jpg",
+          "caption": "Michelangelo's Laurentian Library Triple-Flight Staircase",
+          "sub": "San Lorenzo",
+          "chapter": "san-lorenzo"
+        },
+        {
+          "src": "assets/trips/italy/florence/san-lorenzo/san-lorenzo-2.jpg",
+          "caption": "Brunelleschi's Pietra Serena Order & Modular Arcade",
+          "sub": "San Lorenzo Nave",
+          "chapter": "san-lorenzo"
+        },
+        {
+          "src": "assets/trips/italy/florence/urban/urban-1.jpg",
+          "caption": "Piazza della Signoria & Historic Street Canyon Perspective",
+          "sub": "Urban Fabric",
+          "chapter": "urban"
+        },
+        {
+          "src": "assets/trips/italy/florence/urban/urban-2.jpg",
+          "caption": "Tomaso's / Vini e Vecchi Sapori Traditional Lunch Stop",
+          "sub": "Studio Sustenance",
+          "chapter": "urban"
+        }
+      ]
+    },
+    {
+      "id": "ammiraglia-frescobaldi",
+      "title": "Tenuta Ammiraglia \u2014 Frescobaldi",
+      "subtitle": "Magliano in Toscana, Maremma \u2022 Arch. Piero Sartogo",
+      "coords": {
+        "x": -28,
+        "z": 32
+      },
+      "architect": "Piero Sartogo & Nathalie Grenon",
+      "year": "2011 / Visit Oct 28, 2024",
+      "typology": "Aerodynamic Cantilevered Winery & Gravity Production",
+      "category": "Winery Architecture",
+      "summary": "Tuesday morning field trip into the rolling hills of Maremma. Designed by Piero Sartogo, Tenuta Ammiraglia resembles an aerodynamic naval vessel gliding along the topography. Its 130-meter slit cantilever roof is embedded with natural vegetation, shading fermentation facilities and blending the industrial gravity-flow process seamlessly into the coastal Mediterranean landscape.",
+      "notes": [
+        "Cantilever Blade: 130-meter thin structural roof slit resembling an ocean liner sailing the hills.",
+        "Gravity Winemaking: 3-tier vertical production matrix allowing gentle gravity-fed grape handling.",
+        "Environmental Envelope: Extensive green roof providing passive thermal insulation against Maremma heat."
+      ],
+      "photos": [
+        {
+          "src": "assets/trips/italy/ammiraglia-frescobaldi/ammiraglia-1.jpg",
+          "caption": "Aerodynamic Cantilever Roof Blade over Vineyards",
+          "sub": "Piero Sartogo Design"
+        },
+        {
+          "src": "assets/trips/italy/ammiraglia-frescobaldi/ammiraglia-2.jpg",
+          "caption": "Gravity-Flow Fermentation Tanks & Glazed Slit",
+          "sub": "Production Level"
+        },
+        {
+          "src": "assets/trips/italy/ammiraglia-frescobaldi/ammiraglia-3.jpg",
+          "caption": "Tasting Terrace Framing Maremma Horizon",
+          "sub": "Fieldtrip Documentation"
+        }
+      ]
+    },
+    {
+      "id": "rocca-di-frassinello",
+      "title": "Rocca di Frassinello",
+      "subtitle": "Gavorrano, Maremma \u2022 Arch. Renzo Piano",
+      "coords": {
+        "x": -35,
+        "z": 20
+      },
+      "architect": "Renzo Piano Building Workshop (RPBW)",
+      "year": "2007 / Visit Oct 28, 2024",
+      "typology": "Subterranean Amphitheater Cellar & Terracotta Tower",
+      "category": "Winery Architecture",
+      "summary": "Tuesday afternoon field trip exploring Renzo Piano's seminal Tuscan winery. Piano conceived the facility as a subterranean amphitheater: an enormous 40x40 meter square hall holding 2,500 oak barriques under a dramatic central skylight. Above ground, a sharp ruby-red observation tower (la torre) commands 360-degree views over the Maremma plain.",
+      "notes": [
+        "Subterranean Barricaia: Stepped amphitheater holding 2,500 barrels in concentric rows under a single light well.",
+        "The Red Tower: Renzo Piano's signature red steel observation tower framing the Tuscan horizon.",
+        "Acoustic & Thermal Stability: Deep underground embedment maintaining constant 15\u00b0C and 80% humidity."
+      ],
+      "photos": [
+        {
+          "src": "assets/trips/italy/rocca-di-frassinello/rocca-1.jpg",
+          "caption": "Subterranean 2,500 Barrique Amphitheater Hall",
+          "sub": "Renzo Piano Interior"
+        },
+        {
+          "src": "assets/trips/italy/rocca-di-frassinello/rocca-2.jpg",
+          "caption": "The Ruby Red Observation Tower against Tuscan Sky",
+          "sub": "Exterior Monolith"
+        },
+        {
+          "src": "assets/trips/italy/rocca-di-frassinello/rocca-3.jpg",
+          "caption": "Terracotta Paved Pavilions & Gravity Intake Hopper",
+          "sub": "Tectonic Detailing"
+        }
+      ]
+    },
+    {
+      "id": "podere-la-chiesa",
+      "title": "Podere La Chiesa Winery",
+      "subtitle": "Terricciola, Valdera (Near Borgo di Colleoli)",
+      "coords": {
+        "x": -14,
+        "z": 4
+      },
+      "architect": "Contemporary Vernacular Design",
+      "year": "Visit Oct 29, 2024",
+      "typology": "Curved Architectural Cellar & Amphitheater Barricaia",
+      "category": "Winery Architecture",
+      "summary": "Wednesday afternoon visit directly following the morning survey of Borgo di Colleoli. Located just kilometers from basecamp in Terricciola, Podere La Chiesa integrates contemporary winemaking inside an amphitheater-shaped cellar designed to host classical music concerts among fermentation vessels.",
+      "notes": [
+        "Acoustic Tectonics: Elliptical subterranean tasting room designed for musical acoustics.",
+        "Proximity to Borgo: Valdera viticulture terroir directly adjacent to Colleoli.",
+        "Natural Light: Slotted apertures tracing sun angles onto aging oak casks."
+      ],
+      "photos": [
+        {
+          "src": "assets/trips/italy/podere-la-chiesa/chiesa-1.jpg",
+          "caption": "Curved Elliptical Barricaia & Acoustic Ceiling",
+          "sub": "Interior Cellar"
+        },
+        {
+          "src": "assets/trips/italy/podere-la-chiesa/chiesa-2.jpg",
+          "caption": "Vineyard Rows over Valdera Clay Hills",
+          "sub": "Landscape Survey"
+        }
+      ]
+    },
+    {
+      "id": "volterra",
+      "title": "Volterra Village & Historic Fabric",
+      "subtitle": "Val di Cecina, Tuscany",
+      "coords": {
+        "x": -4,
+        "z": 16
+      },
+      "architect": "Etruscan, Roman & Medieval Master Builders",
+      "year": "4th Century BC \u2013 Medieval / Visit Oct 29, 2024",
+      "typology": "High-Altitude Hilltop Urbanism, Alabaster & Roman Theatre",
+      "category": "Historic Urbanism",
+      "summary": "Wednesday field survey of the dramatic fortified hilltop settlement of Volterra. Sited dramatically on a windswept plateau 550 meters above the Cecina Valley, the town features 4th-century BC Etruscan cyclopean walls, a pristine 1st-century BC Roman theater, and towering medieval stone streetscapes.",
+      "notes": [
+        "Plateau Morphology: Defensive edge conditions dropping precipitously into the 'Balze' ravines.",
+        "Etruscan Stone Joints: Massive dry-laid masonry surviving over 2,400 years.",
+        "Roman Theater: Calibrated acoustic bowl cut into the northern slope."
+      ],
+      "photos": [
+        {
+          "src": "assets/trips/italy/volterra/volterra-1.jpg",
+          "caption": "Medieval Tower Massing & Palazzo dei Priori",
+          "sub": "Urban Piazza"
+        },
+        {
+          "src": "assets/trips/italy/volterra/volterra-2.jpg",
+          "caption": "Roman Theatre & Bath Complex Excavation",
+          "sub": "Archaeological Cut"
+        },
+        {
+          "src": "assets/trips/italy/volterra/volterra-3.jpg",
+          "caption": "Etruscan Stone Gateway (Porta all'Arco)",
+          "sub": "Historic Tectonics"
+        }
+      ]
+    },
+    {
+      "id": "villa-corsini",
+      "title": "Villa Corsini a Mezzomonte",
+      "subtitle": "Impruneta / San Casciano in Val di Pesa, Chianti",
+      "coords": {
+        "x": 16,
+        "z": -12
+      },
+      "architect": "Renaissance Medici & Corsini Master Architects",
+      "year": "14th\u201317th Century / Visit Oct 30, 2024",
+      "typology": "Monumental Renaissance Villa Estate & Terraced Parterres",
+      "category": "Historic Landscape & Villa",
+      "summary": "Thursday morning countryside field trip prior to arriving in Florence. Once owned by Lorenzo the Magnificent and Cardinal Carlo de' Medici, Villa Corsini illustrates the classic Renaissance villa typology: axial walled formal gardens, vaulted fresco loggias, and panoramic agricultural vistas commanding the olive and vineyard slopes.",
+      "notes": [
+        "Renaissance Villa Axis: Direct geometrical alignment between central salon, courtyard, and terraced parterres.",
+        "Microclimatic Loggias: Frescoed vaulted arcades providing passive cross-ventilation in summer.",
+        "Agrarian Integration: Formal geometric gardens dissolving into productive olive orchards."
+      ],
+      "photos": [
+        {
+          "src": "assets/trips/italy/villa-corsini/corsini-1.jpg",
+          "caption": "Monumental Villa Facade & Terraced Italian Parterres",
+          "sub": "Garden Axis"
+        },
+        {
+          "src": "assets/trips/italy/villa-corsini/corsini-2.jpg",
+          "caption": "Frescoed Loggia Vaults & Classical Pilaster Orders",
+          "sub": "Interior Tectonics"
+        }
+      ]
+    }
+  ]
+}
